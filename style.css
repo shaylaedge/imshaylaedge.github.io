@@ -1,0 +1,182 @@
+body {
+  margin: 0;
+}
+
+#links {
+  font-family: fantasy;
+  background-color: rgb(244, 220, 133);
+  height: 140px;
+  display: flex;
+  flex-direction: column;
+}
+
+#Title {
+  font-size: xx-large;
+  height: 100px;
+  color: chocolate;
+  text-align: center;
+}
+
+#selfie {
+  width: 550px;
+  height: 340px;
+}
+#eatingdonut {
+  width: 300px;
+  height: 340px;
+}
+#introduction {
+  font-size: medium;
+  font-family: cursive;
+  color: rgb(110, 83, 7);
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+a {
+  color: darkorange;
+}
+
+.frog1 {
+  border: solid 1px black;
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+  justify-content: space-around;
+}
+
+#coverphotos {
+  background-color: rgb(244, 220, 143);
+  display: flex;
+  justify-content: space-around;
+  justify-content: space-between;
+}
+
+#introduction {
+  background-color: rgb(244, 220, 143);
+  height: 500px;
+}
+p {
+  font-family: fantasy;
+  font-size: x-large;
+}
+#film {
+  background-color: #f9cc71;
+}
+
+#orange {
+  height: 300px;
+  width: 450px;
+}
+#pizza {
+  height: 300px;
+  width: 450px;
+}
+#catapillar {
+  height: 300px;
+  width: 450px;
+}
+#cat {
+  height: 300px;
+  width: 450px;
+}
+#Maunakea {
+  height: 300px;
+  width: 450px;
+}
+
+#filmheader {
+  background-color: tomato;
+  height: 100px;
+  text-align: center;
+  font-size: xx-large;
+  margin-top: 0%;
+}
+#mountain {
+  height: 300px;
+  width: 450px;
+}
+
+#travelheader {
+  background-color: rgb(192, 235, 221);
+  background-color: rgb(112, 233, 244);
+  height: 100px;
+  text-align: center;
+  font-size: xx-large;
+  margin-top: 0%;
+}
+
+#Travelbackground {
+  background-color: rgb(183, 237, 237);
+  height: 1200px;
+  width: 1000px;
+}
+#fish {
+  height: 200px;
+  width: 320px;
+}
+#turtle {
+  height: 200px;
+  width: 320px;
+}
+#shark {
+  height: 200px;
+  width: 320px;
+}
+#kokee {
+  height: 200px;
+  width: 320px;
+}
+#star {
+  height: 200px;
+  width: 320px;
+}
+#turtlescove {
+  height: 200px;
+  width: 320px;
+}
+#friendsheader {
+  background-color: rgb(192, 235, 221);
+  background-color: rgb(251, 198, 236);
+  height: 100px;
+  text-align: center;
+  font-size: xx-large;
+  margin-top: 0%;
+}
+#kenpres {
+  height: 220px;
+  width: 320px;
+}
+#ella {
+  height: 220px;
+  width: 320px;
+}
+#friendsbackground {
+  background-color: rgb(233, 184, 192);
+  height: 2000px;
+  width: 1000px;
+}
+
+#kiana {
+  height: 300px;
+  width: 300px;
+}
+
+#saebrie {
+  height: 400px;
+  width: 300px;
+}
+
+#donkey {
+  height: 400px;
+  width: 320px;
+}
+
+#river {
+  height: 400px;
+  width: 300px;
+}
+#oregon {
+  height: 400px;
+  width: 300px;
+}
